@@ -1,4 +1,5 @@
 # research-projects
 The main repo for researchers.
 
-ZenHub: [https://www.zenhub.com/](https://www.zenhub.com/)  
+<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
+
